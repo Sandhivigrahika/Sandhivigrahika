@@ -36,7 +36,7 @@ Currently the core backend developer at **Motospot**, a live product I've taken 
 ### [RAG — Retrieval-Augmented Generation for PDF Q&A](link)
 End-to-end document Q&A: PDF chunking, HuggingFace MiniLM embeddings, a persisted Chroma vector store with top-k similarity search, and a local flan-t5 LLM answering from retrieved context — with token-budgeting, prompt grounding to curb hallucination, and page-level source attribution.
 
-### [Neural Collaborative Filtering Recommender](link) *(deployment in progress)*
+### [Neural Collaborative Filtering Recommender](link) 
 NCF (GMF + MLP) recommender with a FastAPI serving layer, retraining pipeline, and cold-start handling. Serving path reimplemented in NumPy so inference runs without a heavy ML framework in memory.
 
 ### [Financial Records Management API (RBAC)](link)
