@@ -1,4 +1,4 @@
-## Hi, I'm Neel Hans 👋
+## Hi, I'm Neel Hans 
 
 **Backend / API Engineer** — I build and ship production REST APIs in Python (FastAPI) over PostgreSQL, and I'm building depth in applied AI (RAG, recommender systems, LLMs).
 
@@ -9,14 +9,14 @@ Currently the core backend developer at **Motospot**, a live product I've taken 
 
 ---
 
-## 🔭 What I do
+##  What I do
 
 - **Backend:** FastAPI REST APIs, PostgreSQL & SQLAlchemy, auth (JWT / OAuth / OTP), role-based access control, deployment
 - **Applied AI:** RAG pipelines, embeddings & vector search (Chroma), recommender systems, neural networks from scratch
 
 ---
 
-## 💻 Tech
+##  Tech
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -28,7 +28,7 @@ Currently the core backend developer at **Motospot**, a live product I've taken 
 
 ---
 
-## 🚀 Selected Projects
+##  Selected Projects
 
 ### Motospot — Production backend for a live React Native app
 40+ REST API endpoints in FastAPI over a 10+ table PostgreSQL schema. Google Sign-In & OTP auth, location features, service tracking, and an internal admin panel with role-based access control. Taken to launch and deployed on Railway.
@@ -44,7 +44,7 @@ Secure REST APIs with JWT auth and role-based access control; CRUD plus analytic
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 **Languages:** Python, SQL, TypeScript, JavaScript  
 **Backend:** FastAPI, REST APIs, JWT / OAuth  
@@ -54,6 +54,6 @@ Secure REST APIs with JWT auth and role-based access control; CRUD plus analytic
 
 ---
 
-## 🤝 Open to
+##  Open to
 
 Backend / backend-leaning roles — Python, FastAPI, applied AI. Early-stage startups especially.
