@@ -1,6 +1,6 @@
 ## Hi, I'm Neel Hans 
 
-**Backend / API Engineer** — I build and ship production REST APIs in Python (FastAPI) over PostgreSQL, and I'm building depth in applied AI (RAG, recommender systems, LLMs).
+**Software Engineer** — I build and ship production REST APIs in Python (FastAPI) over PostgreSQL, and I'm building depth in applied AI (RAG, recommender systems, LLMs).
 
 Currently the core backend developer at **Motospot**, a live product I've taken from build to launch.
 
