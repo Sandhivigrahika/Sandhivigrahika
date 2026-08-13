@@ -4,7 +4,7 @@
 
 Currently the core Software developer(Founding Team) at **Motospot**, a live product I've taken from build to launch.
 
-Head over to my Website: [Portfolio](https://sites.google.com/view/neelhans/home)
+**Head over to my website**: [Portfolio](https://sites.google.com/view/neelhans/home)
 
 📍 Bengaluru, India  
 📫 [Email](mailto:neel.hans97@gmail.com) • [LinkedIn](https://www.linkedin.com/in/neel-hans-21646392)
