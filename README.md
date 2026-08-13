@@ -2,7 +2,7 @@
 
 **Software Engineer** — I build and ship production REST APIs in Python (FastAPI) over PostgreSQL, and I'm building depth in applied AI (RAG, recommender systems, LLMs).
 
-Currently the core Software developer(Founding Team) at **Motospot**, a live product I've taken from build to launch.
+Currently the Software developer(Founding Team) at **Motospot**, a live product I've taken from build to launch.
 
 **Head over to my website**: [Portfolio](https://sites.google.com/view/neelhans/home)
 
