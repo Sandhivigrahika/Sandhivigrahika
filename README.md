@@ -60,4 +60,4 @@ Secure REST APIs with JWT auth and role-based access control; CRUD plus analytic
 
 ##  Open to
 
-Backend / backend-leaning roles — Python, FastAPI, applied AI. Early-stage startups especially.
+Backend / backend-leaning AI/ML roles — Python, FastAPI, applied AI. Early-stage startups especially.
